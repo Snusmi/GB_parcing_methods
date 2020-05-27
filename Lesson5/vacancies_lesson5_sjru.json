@@ -1,0 +1,401 @@
+[{
+  "_id": "c674e5894636de8c8605a584c2f40ed551b9dfed",
+  "company_address": "",
+  "company_name": "",
+  "link": "https://reutov.superjob.ru/vakansii/uchitel-informatiki-32382712.html",
+  "name": "Учитель информатики",
+  "salary_currency": null,
+  "salary_max": null,
+  "salary_min": null,
+  "site": "sjru"
+},{
+  "_id": "b0cae5f5d806e31de78a5d99eb6a3c52cb9b7ff3",
+  "company_address": "Москва, ул. Академика Скрябина, д. 9 к. 2 стр.4",
+  "company_name": "ДПО Центр «Профессионал»",
+  "link": "https://reutov.superjob.ru/vakansii/prepodavatel-po-kursu-32448389.html",
+  "name": "Преподаватель по курсу (Python для машинного обучения)",
+  "salary_currency": null,
+  "salary_max": null,
+  "salary_min": null,
+  "site": "sjru"
+},{
+  "_id": "28a1700785ebc5741e28d878f31fcd3d7bd72ce4",
+  "company_address": "Долгопрудный, Институтский переулок, 9",
+  "company_name": "МФТИ",
+  "link": "https://reutov.superjob.ru/vakansii/programmist-mikrokontrollerov-33846983.html",
+  "name": "Программист микроконтроллеров",
+  "salary_currency": null,
+  "salary_max": null,
+  "salary_min": null,
+  "site": "sjru"
+},{
+  "_id": "67a37e4b4e4663d8c6860eea82f83afca6ba33c4",
+  "company_address": "",
+  "company_name": "",
+  "link": "https://reutov.superjob.ru/vakansii/it-specialist-33815598.html",
+  "name": "IT-специалист",
+  "salary_currency": null,
+  "salary_max": null,
+  "salary_min": null,
+  "site": "sjru"
+},{
+  "_id": "eed8d47b63b676dbc3786fb442e43a959087a433",
+  "company_address": "Москва",
+  "company_name": "Софт технолоджи",
+  "link": "https://reutov.superjob.ru/vakansii/data-scientist-33826570.html",
+  "name": "Data scientist, специалист по обучению нейронных сетей",
+  "salary_currency": null,
+  "salary_max": null,
+  "salary_min": null,
+  "site": "sjru"
+},{
+  "_id": "6455277343162fdfed34483d061afc6ae4237de0",
+  "company_address": "Санкт-Петербург",
+  "company_name": "Газстройпром",
+  "link": "https://reutov.superjob.ru/vakansii/glavnyj-ekspert-oracle-hyperion-33812899.html",
+  "name": "Главный эксперт Oracle Hyperion",
+  "salary_currency": null,
+  "salary_max": null,
+  "salary_min": null,
+  "site": "sjru"
+},{
+  "_id": "0548c9d98fb9fc1baf23a3959ef75894accbd469",
+  "company_address": "Москва, Кольцевая линия, метро Павелецкая",
+  "company_name": "Публичное акционерное общество \"Новомосковскремэнерго\" (ПАО \"НОРЭ\")",
+  "link": "https://reutov.superjob.ru/vakansii/veduschij-razrabotchik-oracle-33848252.html",
+  "name": "Ведущий разработчик Oracle, программист",
+  "salary_currency": null,
+  "salary_max": null,
+  "salary_min": null,
+  "site": "sjru"
+},{
+  "_id": "d4279779c963a68227225d51b1d7653f8d92193a",
+  "company_address": "Тульская",
+  "company_name": "ГБУЗ \"ДЦЛИ ДЗМ\"",
+  "link": "https://reutov.superjob.ru/vakansii/sistemnyj-administrator-33845400.html",
+  "name": "Системный администратор, IT-специалист",
+  "salary_currency": "руб.",
+  "salary_max": 100000,
+  "salary_min": 90000,
+  "site": "sjru"
+},{
+  "_id": "9a9ccbaf48919502522d76ac4adbeb520a1c2458",
+  "company_address": "БелорусскаяУлица 1905 годаМосква, улица Пресненский Вал, 19с1Опыт работы от 1 годавысшее образованиеполная занятость",
+  "company_name": "Федеральное государственное научное учреждение \"Центр информационных технологий и систем органов исполнительной власти\"",
+  "link": "https://reutov.superjob.ru/vakansii/inzhener-v-oblasti-mashinnogo-obucheniya-33556440.html",
+  "name": "Инженер в области машинного обучения",
+  "salary_currency": null,
+  "salary_max": null,
+  "salary_min": null,
+  "site": "sjru"
+},{
+  "_id": "b5900c18d35f0f19071cffc96091a3c4aa29245c",
+  "company_address": "МоскваОпыт работы от 3 летполная занятостьудалённая работа",
+  "company_name": "Андата",
+  "link": "https://reutov.superjob.ru/vakansii/data-scientist-33832075.html",
+  "name": "Data scientist",
+  "salary_currency": null,
+  "salary_max": null,
+  "salary_min": null,
+  "site": "sjru"
+},{
+  "_id": "05a275b0556c6044ebd4a06abc463bd65714ec0b",
+  "company_address": "",
+  "company_name": "",
+  "link": "https://reutov.superjob.ru/vakansii/oblachnyj-inzhener-33840080.html",
+  "name": "Облачный инженер / Инженер систем хранения данных",
+  "salary_currency": null,
+  "salary_max": null,
+  "salary_min": null,
+  "site": "sjru"
+},{
+  "_id": "59b69b5ea18440b70e2a8fbda0d63938604613c3",
+  "company_address": "Москва, Замоскворецкая линия, метро Белорусская",
+  "company_name": "Государственное бюджетное общеобразовательное учреждение города Москвы \"Романовская школа\"",
+  "link": "https://reutov.superjob.ru/vakansii/uchitel-informatiki-33879028.html",
+  "name": "Учитель информатики",
+  "salary_currency": null,
+  "salary_max": null,
+  "salary_min": null,
+  "site": "sjru"
+},{
+  "_id": "d6937628edffa20f04641bc0804bf616d61bee25",
+  "company_address": "",
+  "company_name": "",
+  "link": "https://reutov.superjob.ru/vakansii/glavnyj-razrabotchik-33865314.html",
+  "name": "Главный разработчик",
+  "salary_currency": null,
+  "salary_max": null,
+  "salary_min": null,
+  "site": "sjru"
+},{
+  "_id": "c488f24cf512250ff1fd14eaaa524b451c6e73c9",
+  "company_address": "МоскваОпыт работы от 1 годаполная занятостьудалённая работа",
+  "company_name": "TR Logic LLC",
+  "link": "https://reutov.superjob.ru/vakansii/rust-developer-33742484.html",
+  "name": "Rust Developer",
+  "salary_currency": "руб.",
+  "salary_max": 164000,
+  "salary_min": 160000,
+  "site": "sjru"
+},{
+  "_id": "3ab7f094611ece9870c6b18a61e09966eeef390b",
+  "company_address": "Москва",
+  "company_name": "Росгосстрах Банк",
+  "link": "https://reutov.superjob.ru/vakansii/veduschij-razrabotchik-33809980.html",
+  "name": "Ведущий разработчик (back-end)",
+  "salary_currency": null,
+  "salary_max": null,
+  "salary_min": null,
+  "site": "sjru"
+},{
+  "_id": "06ecc42e90eb30b5abdeb2a0ecc921f3290a5069",
+  "company_address": "МытищиОпыт работы от 3 летвысшее образованиеполная занятость",
+  "company_name": "\"Концерн \"Калашников\"",
+  "link": "https://reutov.superjob.ru/vakansii/veduschij-sistemnyj-administrator-33495885.html",
+  "name": "Ведущий системный администратор",
+  "salary_currency": null,
+  "salary_max": null,
+  "salary_min": null,
+  "site": "sjru"
+},{
+  "_id": "b77b542b17ffb9b167e3ae0c181da130019e8deb",
+  "company_address": "",
+  "company_name": "",
+  "link": "https://reutov.superjob.ru/vakansii/inzhener-33089687.html",
+  "name": "Инженер, техник",
+  "salary_currency": null,
+  "salary_max": null,
+  "salary_min": null,
+  "site": "sjru"
+},{
+  "_id": "2d34fbfd2b7229ccfeb59a2d4b1761dd8ca9c0d8",
+  "company_address": "Москва, улица Паустовского, 6к2Высшее образованиеполная занятость",
+  "company_name": "ГБОУ Школа № 1561",
+  "link": "https://reutov.superjob.ru/vakansii/uchitel-robototehniki-33835076.html",
+  "name": "Учитель робототехники",
+  "salary_currency": null,
+  "salary_max": null,
+  "salary_min": null,
+  "site": "sjru"
+},{
+  "_id": "50e55ba2053b59e0da4538967707576ec44654e6",
+  "company_address": "МоскваСавеловскаяМарьина рощаОпыт работы не требуетсявысшее образованиеполная занятость",
+  "company_name": "Тинькофф",
+  "link": "https://reutov.superjob.ru/vakansii/specialist-operacionnogo-planirovaniya-i-analitiki-prodazh-33479327.html",
+  "name": "Специалист операционного планирования и аналитики продаж",
+  "salary_currency": null,
+  "salary_max": null,
+  "salary_min": null,
+  "site": "sjru"
+},{
+  "_id": "df095ae254cd63b77327308588fbd1ac5700d6c4",
+  "company_address": "Москва, ул. Академика Скрябина, д. 9 к. 2 стр.4",
+  "company_name": "ДПО Центр «Профессионал»",
+  "link": "https://russia.superjob.ru/vakansii/prepodavatel-po-kursu-32448389.html",
+  "name": "Преподаватель по курсу (Python для машинного обучения)",
+  "salary_currency": null,
+  "salary_max": null,
+  "salary_min": null,
+  "site": "sjru"
+},{
+  "_id": "2b0b376c5769571722dac26559b4b58dae2b7a24",
+  "company_address": "Москва",
+  "company_name": "Тинькофф",
+  "link": "https://russia.superjob.ru/vakansii/specialist-operacionnogo-planirovaniya-i-analitiki-prodazh-33479327.html",
+  "name": "Специалист операционного планирования и аналитики продаж",
+  "salary_currency": null,
+  "salary_max": null,
+  "salary_min": null,
+  "site": "sjru"
+},{
+  "_id": "471f70d7cdd3cc383bcdbf1130cae4a6cfd5bc61",
+  "company_address": "Москва, улица Паустовского, 6к2",
+  "company_name": "ГБОУ Школа № 1561",
+  "link": "https://russia.superjob.ru/vakansii/uchitel-robototehniki-33835076.html",
+  "name": "Учитель робототехники",
+  "salary_currency": null,
+  "salary_max": null,
+  "salary_min": null,
+  "site": "sjru"
+},{
+  "_id": "f37ced72a229bf469d1556ccca8b176bc45bb23f",
+  "company_address": "Сенная площадь",
+  "company_name": "АргусСофт",
+  "link": "https://russia.superjob.ru/vakansii/programmist-c-33859971.html",
+  "name": "Программист C++",
+  "salary_currency": null,
+  "salary_max": null,
+  "salary_min": null,
+  "site": "sjru"
+},{
+  "_id": "9e9caf42952c05e56d20a1a7a57861d5941e2b48",
+  "company_address": "Бухарестская",
+  "company_name": "Группа Управляющих компаний",
+  "link": "https://russia.superjob.ru/vakansii/inzhener-seti-peredachi-dannyh-33838909.html",
+  "name": "Инженер сети передачи данных",
+  "salary_currency": null,
+  "salary_max": null,
+  "salary_min": null,
+  "site": "sjru"
+},{
+  "_id": "b0882c7ae1c5c142fea732034026a0b258a9652e",
+  "company_address": "Белорусская",
+  "company_name": "Федеральное государственное научное учреждение \"Центр информационных технологий и систем органов исполнительной власти\"",
+  "link": "https://russia.superjob.ru/vakansii/inzhener-v-oblasti-mashinnogo-obucheniya-33556440.html",
+  "name": "Инженер в области машинного обучения",
+  "salary_currency": null,
+  "salary_max": null,
+  "salary_min": null,
+  "site": "sjru"
+},{
+  "_id": "7c3becb4b133300a51d68fe284dfc14af4d79d6d",
+  "company_address": "Волгоград, проспект Героев Сталинграда, 50А",
+  "company_name": "Сбербанк России",
+  "link": "https://russia.superjob.ru/vakansii/analitik-dannyh-33508905.html",
+  "name": "Аналитик данных",
+  "salary_currency": null,
+  "salary_max": null,
+  "salary_min": null,
+  "site": "sjru"
+},{
+  "_id": "09888636e5de6d3aa0f6bd77a37ede8b00acab02",
+  "company_address": "Уфа",
+  "company_name": "Россельхозбанк",
+  "link": "https://russia.superjob.ru/vakansii/prikladnoj-administrator-33889764.html",
+  "name": "Прикладной администратор (CI/CD)",
+  "salary_currency": null,
+  "salary_max": null,
+  "salary_min": null,
+  "site": "sjru"
+},{
+  "_id": "899183c869fd3bd866e67e017e265b98846ceb39",
+  "company_address": "Москва",
+  "company_name": "Росгосстрах Банк",
+  "link": "https://russia.superjob.ru/vakansii/inzhener-devops-33809969.html",
+  "name": "Инженер DevOps",
+  "salary_currency": null,
+  "salary_max": null,
+  "salary_min": null,
+  "site": "sjru"
+},{
+  "_id": "dda5090b15ba8d3f33ee591687ebfd32aa0e952e",
+  "company_address": "Москва, Кольцевая линия, метро Павелецкая",
+  "company_name": "Публичное акционерное общество \"Новомосковскремэнерго\" (ПАО \"НОРЭ\")",
+  "link": "https://russia.superjob.ru/vakansii/veduschij-razrabotchik-oracle-33848252.html",
+  "name": "Ведущий разработчик Oracle, программист",
+  "salary_currency": null,
+  "salary_max": null,
+  "salary_min": null,
+  "site": "sjru"
+},{
+  "_id": "bd146d247d7ad7722c1354199ceb75ec22696754",
+  "company_address": "Долгопрудный, Институтский переулок, 9",
+  "company_name": "МФТИ",
+  "link": "https://russia.superjob.ru/vakansii/programmist-mikrokontrollerov-33846983.html",
+  "name": "Программист микроконтроллеров",
+  "salary_currency": null,
+  "salary_max": null,
+  "salary_min": null,
+  "site": "sjru"
+},{
+  "_id": "a31021cc4bbb83b38a69a4d1c7400bf6db993db5",
+  "company_address": "Москва",
+  "company_name": "Софт технолоджи",
+  "link": "https://russia.superjob.ru/vakansii/data-scientist-33826570.html",
+  "name": "Data scientist, специалист по обучению нейронных сетей",
+  "salary_currency": null,
+  "salary_max": null,
+  "salary_min": null,
+  "site": "sjru"
+},{
+  "_id": "4127c1281cec05f22183854428e3497eec7b25aa",
+  "company_address": "Екатеринбург, пр-кт Ленина, д. 38",
+  "company_name": "«Т Плюс»",
+  "link": "https://russia.superjob.ru/vakansii/veduschij-ekspert-po-supp-32618908.html",
+  "name": "Ведущий эксперт по СУПП",
+  "salary_currency": null,
+  "salary_max": null,
+  "salary_min": null,
+  "site": "sjru"
+},{
+  "_id": "ee215d429defb21b37ef47a9660084b8a6f95f5d",
+  "company_address": "Ульяновск, улица Рябикова, 21Б",
+  "company_name": "",
+  "link": "https://russia.superjob.ru/vakansii/sistemnyj-administrator-33719139.html",
+  "name": "Системный администратор",
+  "salary_currency": null,
+  "salary_max": null,
+  "salary_min": null,
+  "site": "sjru"
+},{
+  "_id": "00ad74e63c951e50bb92ceb46586b2bb2b71d8f2",
+  "company_address": "Москва, Замоскворецкая линия, метро Белорусская",
+  "company_name": "Государственное бюджетное общеобразовательное учреждение города Москвы \"Романовская школа\"",
+  "link": "https://russia.superjob.ru/vakansii/uchitel-informatiki-33879028.html",
+  "name": "Учитель информатики",
+  "salary_currency": null,
+  "salary_max": null,
+  "salary_min": null,
+  "site": "sjru"
+},{
+  "_id": "34d4167926b4106c4b762c7d00a979584d4c7cf7",
+  "company_address": "Москва",
+  "company_name": "Андата",
+  "link": "https://russia.superjob.ru/vakansii/data-scientist-33832075.html",
+  "name": "Data scientist",
+  "salary_currency": null,
+  "salary_max": null,
+  "salary_min": null,
+  "site": "sjru"
+},{
+  "_id": "ab62d04304d928d30d8e45e74e96f7c5aa79629a",
+  "company_address": "Долгопрудный, Институтский переулок, 9",
+  "company_name": "МФТИ",
+  "link": "https://russia.superjob.ru/vakansii/programmist-c-33846645.html",
+  "name": "Программист C/С++",
+  "salary_currency": null,
+  "salary_max": null,
+  "salary_min": null,
+  "site": "sjru"
+},{
+  "_id": "3a532e061a569400726e8a14b4b36745e67d0fd1",
+  "company_address": "Санкт-Петербург, Курортный район, посёлок Песочный, Ленинградская улица, 68",
+  "company_name": "ФБГУ \"НМИЦ онкологии им. Н. Н. Петрова\" Минздрава России",
+  "link": "https://russia.superjob.ru/vakansii/inzhener-programmist-33865766.html",
+  "name": "Инженер-программист",
+  "salary_currency": null,
+  "salary_max": null,
+  "salary_min": null,
+  "site": "sjru"
+},{
+  "_id": "5399e14411d2f23bbc362525ed84cddb27e111a5",
+  "company_address": "Новосибирск",
+  "company_name": "Art2Hires",
+  "link": "https://russia.superjob.ru/vakansii/senior-python-developer-33807534.html",
+  "name": "Senior Python Developer",
+  "salary_currency": "руб.",
+  "salary_max": 160000,
+  "salary_min": 140000,
+  "site": "sjru"
+},{
+  "_id": "c4d6239d86d7411ca6772293ccdf9069bbf0bb37",
+  "company_address": "Москва",
+  "company_name": "Росгосстрах Банк",
+  "link": "https://russia.superjob.ru/vakansii/veduschij-razrabotchik-33809980.html",
+  "name": "Ведущий разработчик (back-end)",
+  "salary_currency": null,
+  "salary_max": null,
+  "salary_min": null,
+  "site": "sjru"
+},{
+  "_id": "f9478616e4ec725db5967d380cba1640ec7365d9",
+  "company_address": "Мытищи",
+  "company_name": "\"Концерн \"Калашников\"",
+  "link": "https://russia.superjob.ru/vakansii/veduschij-sistemnyj-administrator-33495885.html",
+  "name": "Ведущий системный администратор",
+  "salary_currency": null,
+  "salary_max": null,
+  "salary_min": null,
+  "site": "sjru"
+}]
