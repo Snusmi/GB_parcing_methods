@@ -1,0 +1,196 @@
+[{
+  "_id": {
+    "$oid": "5ed8c00963bc908c755f1ebf"
+  },
+  "productPriceLocal": "59990.00",
+  "productId": "30045357",
+  "productName": "Смартфон Apple iPhone 11 64GB Black (MWLT2RU/A)",
+  "productCategoryId": "cat2_cis_0000000357",
+  "productCategoryName": "Смартфоны",
+  "productVendorName": "Apple",
+  "productGroupId": "cat1_cis_0000000012",
+  "Location": "block5260655",
+  "eventPosition": 1
+},{
+  "_id": {
+    "$oid": "5ed8c00963bc908c755f1ec0"
+  },
+  "productPriceLocal": "10990.00",
+  "productId": "50126638",
+  "productName": "Наушники Apple AirPods w/Charging Case (MV7N2RU/A)",
+  "productCategoryId": "cat2_cis_0000000728",
+  "productCategoryName": "Наушники",
+  "productVendorName": "Apple",
+  "productGroupId": "cat1_cis_0000000155",
+  "Location": "block5260655",
+  "eventPosition": 2
+},{
+  "_id": {
+    "$oid": "5ed8c00963bc908c755f1ec1"
+  },
+  "productPriceLocal": "21990.00",
+  "productId": "30047894",
+  "productName": "Смартфон Samsung Galaxy A51 64GB Black (SM-A515F)",
+  "productCategoryId": "cat2_cis_0000000357",
+  "productCategoryName": "Смартфоны",
+  "productVendorName": "Samsung",
+  "productGroupId": "cat1_cis_0000000012",
+  "Location": "block5260655",
+  "eventPosition": 3
+},{
+  "_id": {
+    "$oid": "5ed8c00963bc908c755f1ec2"
+  },
+  "productPriceLocal": "49990.00",
+  "productId": "30040032",
+  "productName": "Смартфон Apple iPhone XR 64GB Black (MRY42RU/A)",
+  "productCategoryId": "cat2_cis_0000000357",
+  "productCategoryName": "Смартфоны",
+  "productVendorName": "Apple",
+  "productGroupId": "cat1_cis_0000000012",
+  "Location": "block5260655",
+  "eventPosition": 4
+},{
+  "_id": {
+    "$oid": "5ed8c00963bc908c755f1ec3"
+  },
+  "productPriceLocal": "32990.00",
+  "productId": "10021429",
+  "productName": "Телевизор Samsung UE43RU7200U",
+  "productCategoryId": "cat2_cis_0000000001",
+  "productCategoryName": "Телевизоры",
+  "productVendorName": "Samsung",
+  "productGroupId": "cat1_cis_0000000001",
+  "Location": "block5260655",
+  "eventPosition": 5
+},{
+  "_id": {
+    "$oid": "5ed8c00963bc908c755f1ec4"
+  },
+  "productPriceLocal": "26490.00",
+  "productId": "30026135",
+  "productName": "Смартфон Apple iPhone 7 32Gb Black (MN8X2RU/A)",
+  "productCategoryId": "cat2_cis_0000000357",
+  "productCategoryName": "Смартфоны",
+  "productVendorName": "Apple",
+  "productGroupId": "cat1_cis_0000000012",
+  "Location": "block5260655",
+  "eventPosition": 6
+},{
+  "_id": {
+    "$oid": "5ed8c00963bc908c755f1ec5"
+  },
+  "productPriceLocal": "33990.00",
+  "productId": "30045468",
+  "productName": "Смарт-часы Apple Watch S5 44mm SpGray Sport Band (MWVF2RU/A)",
+  "productCategoryId": "cat2_cis_0000000688",
+  "productCategoryName": "Apple Watch",
+  "productVendorName": "Apple",
+  "productGroupId": "cat1_cis_0000000165",
+  "Location": "block5260655",
+  "eventPosition": 7
+},{
+  "_id": {
+    "$oid": "5ed8c00963bc908c755f1ec6"
+  },
+  "productPriceLocal": "44990.00",
+  "productId": "30049498",
+  "productName": "Смартфон Apple iPhone SE 2020 128GB Black (MXD02RU/A)",
+  "productCategoryId": "cat2_cis_0000000357",
+  "productCategoryName": "Смартфоны",
+  "productVendorName": "Apple",
+  "productGroupId": "cat1_cis_0000000012",
+  "Location": "block5260655",
+  "eventPosition": 8
+},{
+  "_id": {
+    "$oid": "5ed8c00963bc908c755f1ec7"
+  },
+  "productPriceLocal": "19990.00",
+  "productId": "50131384",
+  "productName": "Наушники Apple AirPods Pro with Wireless Case (MWP22RU/A)",
+  "productCategoryId": "cat2_cis_0000000728",
+  "productCategoryName": "Наушники",
+  "productVendorName": "Apple",
+  "productGroupId": "cat1_cis_0000000155",
+  "Location": "block5260655",
+  "eventPosition": 5
+},{
+  "_id": {
+    "$oid": "5ed8c00963bc908c755f1ec8"
+  },
+  "productPriceLocal": "32990.00",
+  "productId": "30047907",
+  "productName": "Смартфон Samsung Galaxy A71 Black(SM-A715F/DSM)",
+  "productCategoryId": "cat2_cis_0000000357",
+  "productCategoryName": "Смартфоны",
+  "productVendorName": "Samsung",
+  "productGroupId": "cat1_cis_0000000012",
+  "Location": "block5260655",
+  "eventPosition": 6
+},{
+  "_id": {
+    "$oid": "5ed8c00963bc908c755f1ec9"
+  },
+  "productPriceLocal": "31990.00",
+  "productId": "30045467",
+  "productName": "Смарт-часы Apple Watch S5 40mm Gold Sport Band (MWV72RU/A)",
+  "productCategoryId": "cat2_cis_0000000688",
+  "productCategoryName": "Apple Watch",
+  "productVendorName": "Apple",
+  "productGroupId": "cat1_cis_0000000165",
+  "Location": "block5260655",
+  "eventPosition": 7
+},{
+  "_id": {
+    "$oid": "5ed8c00963bc908c755f1eca"
+  },
+  "productPriceLocal": "31990.00",
+  "productId": "10021090",
+  "productName": "Телевизор Samsung UE50NU7097U",
+  "productCategoryId": "cat2_cis_0000000001",
+  "productCategoryName": "Телевизоры",
+  "productVendorName": "Samsung",
+  "productGroupId": "cat1_cis_0000000001",
+  "Location": "block5260655",
+  "eventPosition": 8
+},{
+  "_id": {
+    "$oid": "5ed8c00963bc908c755f1ecb"
+  },
+  "productPriceLocal": "28990.00",
+  "productId": "30047889",
+  "productName": "Ноутбук Lenovo IdeaPad S145-15IGM (81MX0067RU)",
+  "productCategoryId": "cat2_cis_0000000130",
+  "productCategoryName": "Ноутбуки",
+  "productVendorName": "Lenovo",
+  "productGroupId": "cat1_cis_0000000008",
+  "Location": "block5260655",
+  "eventPosition": 5
+},{
+  "_id": {
+    "$oid": "5ed8c00963bc908c755f1ecc"
+  },
+  "productPriceLocal": "13490.00",
+  "productId": "50126637",
+  "productName": "Наушники Apple AirPods w/Wireless Charg.Case MRXJ2",
+  "productCategoryId": "cat2_cis_0000000728",
+  "productCategoryName": "Наушники",
+  "productVendorName": "Apple",
+  "productGroupId": "cat1_cis_0000000155",
+  "Location": "block5260655",
+  "eventPosition": 6
+},{
+  "_id": {
+    "$oid": "5ed8c00963bc908c755f1ecd"
+  },
+  "productPriceLocal": "21990.00",
+  "productId": "20067662",
+  "productName": "Робот-пылесос Mi Robot Vacuum-Mop SKV4093GL",
+  "productCategoryId": "cat2_cis_0000000639",
+  "productCategoryName": "Пылесосы",
+  "productVendorName": "Mi",
+  "productGroupId": "cat1_cis_0000000184",
+  "Location": "block5260655",
+  "eventPosition": 7
+}]
